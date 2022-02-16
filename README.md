@@ -11,5 +11,8 @@ After adding a new file.
 Right click the file to source control ==> choose add to git (+)
 Right click the file to source control ==> view and commit changes
 
+To push the files live
+Right click the file to source control ==> push
+
 
 
